@@ -328,6 +328,15 @@ footer {
 }
 
 
+.privacy-link {
+    color: #a5b4fc;
+    text-decoration: underline;
+}
+
+.privacy-link:hover {
+    color: #a5b4fc;
+}
+
 /* 
    MOBILE
  */
